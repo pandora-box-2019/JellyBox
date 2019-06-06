@@ -1,6 +1,21 @@
-# JellyBOX Files
+# Pandora Box Files (Adapted from IMADE3D JellyBox)
 
-Here you can find the JellyBox 3D Printer source files so you can **print spare parts**, or **modify the printer to your liking**!
+Hello maker!
+
+Welcome to Pandora Box, a 3D printer designed for kids. Our goal was to make a printer that could print common objects like an apple using Early Learning Center materials such as model magic and Play-Doh. After two weeks of work, the Pandora Box was born! 
+
+Pandora Box's design was based on the JellyBox 2, a 3D printer developed by IMade3D, and then modified to suit our mission. The material that will be used for the prints is a homemade and reusable dough, the recipe of which you will find in this guide. Pandora Box is controlled by a unique platform using Octopi's software to provide an accessible, safe, and fun experience for its users. 
+
+It wouldn't have been possible to complete our goal if it wasn't for the support we received. With that, we would like to give a special shout-out to Filip Goc, founder of IMade3D; Shenzhen Lankeda Technology Co.; Shenzhen Yuda Crafts Co.; and the amazing faculty of Avenues Mastery Academy Shenzhen 2019. 
+
+Lastly, we hope that you can learn, explore, and potentially improve the Pandora Box, which is now an Open Source printer.
+
+We wish you great discoveries!
+
+Best,
+
+Pandora Box team
+
 
 ## GCODE
 - this is what you want it you want a **fast and easy spare part**
@@ -19,26 +34,14 @@ Here you can find the JellyBox 3D Printer source files so you can **print spare 
 - rld files are used for laser cutting
 - these are ready-to-lasercut
 
-## State of the Art
-- Update 2017-02-07
-  - Several STLs and corresponding GCODEs have been updated. Left fan mount is re-inforced, feeder yoke and arm are smoother than ever, and there is a new mount for the flat proximity sensor without righ fan. Good things all around :cake: . 
-- Update 2016-11-21
-  - GCODE, STL, RLD all published. The only parts missing are wire forms and native 3D files (step). We're working on it :-)
-- Update 2016-10-01
-  - JellyBox 1.3 is still in the stage of cleaning up the files. That's why you only find STLs here in the moment. Similarly, wire documentation is looking good, but it's not ready for public consumption. No worries; it's coming.
-
+## Pandora Box is an open source project
+  We reinforce that Pandora Box was a printer based on the designs of IMADE3D's JellyBox which is a OS printer. Despite this aspect we believe in the culture of sharing. With that, all the files needed to make/modify a Pandora Box are here. 
+  
+  We are excited to see what can be improved in this printer!
 
 ## License
 
   These files are licensed under *Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0)*. Read below and see “license.txt” more more information.
-
-### Q: So is JellyBox open-source?
-#### Contextual answer:
-Yes!
-
-We deeply and sincerely LOVE REMIX culture. We believe ideas are born out of other ideas, and being able to build on other people's projects is path to innovation. Similarly, we LOVE HACKING or, more specifically, making things do what we want the to do and modify them to suit our needs. Also, we LOVE REPAIRING our own devices.
-
-Plus, we don't like to lock people into some sort of Orwellian proprietary system. After all, we are all children of RepRap. For all these reasons, we publish not only our production files (3D: stl and gcode, 2D: rld), but also source files that are way way easier to modify (3D: step).  We want you to play with the design! Make it better! See how it's done.
 
 
 #### License specific answer:
