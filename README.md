@@ -6,7 +6,7 @@ Welcome to Pandora Box, a 3D printer designed for kids. Our goal was to make a p
 
 Pandora Box's design was based on the JellyBox 2, a 3D printer developed by IMade3D, and then modified to suit our mission. The material that will be used for the prints is a homemade and reusable dough, the recipe of which you will find in this guide. Pandora Box is controlled by a unique platform using Octopi's software to provide an accessible, safe, and fun experience for its users. 
 
-It wouldn't have been possible to complete our goal if it wasn't for the support we received. With that, we would like to give a special shout-out to Filip Goc, founder of IMade3D; Shenzhen Lankeda Technology Co.; Shenzhen Yuda Crafts Co.; and the amazing faculty of Avenues Mastery Academy Shenzhen 2019. 
+It wouldn't have been possible to complete our goal if it wasn't for the support we received. With that, we would like to give a special shout-out to Filip Goc, a co-creator of the JellyBOX; Shenzhen Lankeda Technology Co.; Shenzhen Yuda Crafts Co.; and the amazing faculty of Avenues Mastery Academy Shenzhen 2019. 
 
 Lastly, we hope that you can learn, explore, and potentially improve the Pandora Box, which is now an Open Source printer.
 
