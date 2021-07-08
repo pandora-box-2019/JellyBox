@@ -35,14 +35,14 @@ Pandora Box team
 - these are ready-to-lasercut
 
 ## Pandora Box is an open source project
-  We reinforce that Pandora Box was a printer based on the designs of IMADE3D's JellyBox which is a OS printer. Despite this aspect we believe in the culture of sharing. With that, all the files needed to make/modify a Pandora Box are here. 
+
+  We reinforce that Pandora Box is a printer based on the designs of IMADE3D's JellyBox, which is released under the open source CC BY-NC-SA 4.0  licence. Conveniently, we also believe in the culture of sharing. With that, all the files needed to make/modify a Pandora Box are here, released under the same licence CC BY-NC-SA 4.0.
   
-  We are excited to see what can be improved in this printer!
+We are excited to see what can be improved in this printer!
 
 ## License
 
   These files are licensed under *Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0)*. Read below and see “license.txt” more more information.
-
 
 #### License specific answer:
 CC BY-NC-SA 4.0 - now
